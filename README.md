@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTayisaikishorenaidu%2FIndiaDigitalCoin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTayisaikishorenaidu%2FIndiaDigitalCoin?ref=badge_shield)
+
 ###Proud to announce the students community driven first ever Indian crypto coin to the market in the year 2021. 👋
 
 
@@ -27,3 +29,7 @@ Further Updates😍😍😍😍: Website Launch Soon, Wallet Launch Soon, Icon w
 
 Thank You.😊😊😊
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTayisaikishorenaidu%2FIndiaDigitalCoin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTayisaikishorenaidu%2FIndiaDigitalCoin?ref=badge_large)
